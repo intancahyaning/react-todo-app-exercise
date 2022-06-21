@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-todo-app-exercise/static/css/main.70fee435.css",
+    "main.js": "/react-todo-app-exercise/static/js/main.9377320e.js",
+    "index.html": "/react-todo-app-exercise/index.html",
+    "main.70fee435.css.map": "/react-todo-app-exercise/static/css/main.70fee435.css.map",
+    "main.9377320e.js.map": "/react-todo-app-exercise/static/js/main.9377320e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70fee435.css",
+    "static/js/main.9377320e.js"
+  ]
+}
